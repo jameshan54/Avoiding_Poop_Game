@@ -1,3 +1,4 @@
 # Avoiding_Poop_Game
 
-![Animation](https://user-images.githubusercontent.com/86032850/210040391-331a12ee-6faf-4bb7-9187-526626d8d19a.gif)
+
+![poop](https://user-images.githubusercontent.com/86032850/210040630-fd00e5d2-e33d-4134-bf9b-d20f0d9bfa7d.gif)
